@@ -1,0 +1,14 @@
+{
+  "name": "immobiliare",
+  "version": "1.0.0",
+  "description": "web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "claudio",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.3.0"
+  }
+}
